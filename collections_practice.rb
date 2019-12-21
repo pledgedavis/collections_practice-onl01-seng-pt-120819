@@ -58,6 +58,8 @@ array.collect.with_index do |string, index|
   if index == 2
  string << "s"
 # array.slice(string,"feet");
+else 
+  string
  end
 end
 end
