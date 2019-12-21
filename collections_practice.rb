@@ -55,7 +55,7 @@ end
 
 def add_s(array)
 array.collect.with_index do |string, index|
-  if index == 1
+  if index != 1
  string << "s"
 # array.slice(string,"feet");
 else 
