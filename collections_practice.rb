@@ -56,7 +56,7 @@ end
 def add_s(array)
 array.each_with_index do |string|
 string[4] = "s" 
-array.splice(,1);
+array.splice(string,);
 end
 end
 
