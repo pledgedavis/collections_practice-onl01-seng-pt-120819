@@ -56,7 +56,7 @@ end
 def add_s(array)
 array.each_with_index do |string|
 string[4] = "s" 
-string[1] "s"
+
 end
 end
 
