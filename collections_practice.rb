@@ -60,6 +60,7 @@ array.collect.with_index do |string, index|
 # array.slice(string,"feet");
  end
 end
+end
 
 
   
