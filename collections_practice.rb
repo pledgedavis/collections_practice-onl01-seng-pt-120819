@@ -60,5 +60,25 @@ def add_s(array)
 # end
 # end
 
-
+if array.length ==1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
