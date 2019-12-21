@@ -54,7 +54,7 @@ array.inject(0, :+)
 end
 
 def add_s(array)
-array.each_with_index do |string, index|
+array.collect.with_index do |string, index|
   if index == 2
  string << "s"
 # array.slice(string,"feet");
