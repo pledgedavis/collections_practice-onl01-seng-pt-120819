@@ -54,13 +54,13 @@ array.inject(0, :+)
 end
 
 def add_s(array)
-# array.each_with_index do |string|
-# string[4] = "s" 
-# array.slice(string,"feet");
-# end
-# end
+array.each_with_index do |string|
+ string[4] = "s" 
+ array.slice(string,"feet");
+ end
+end
 
-if array.length ==1 
+
   
   
   
